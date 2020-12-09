@@ -1,0 +1,3 @@
+User-agent: *
+Host: https://it.net.kg
+Sitemap: https://it.net.kg/sitemap.xml
